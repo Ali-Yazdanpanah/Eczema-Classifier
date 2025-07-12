@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model files and folders
+eczema_classifier_model/
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.pth
+*.pt
+
+# Dataset folder
+scin_dataset/
+scin_data/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
